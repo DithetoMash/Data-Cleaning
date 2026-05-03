@@ -51,7 +51,7 @@ The dataset was successfully cleaned and structured, making it reliable and read
 
 * `01_Data_Cleaning.ipynb`
 
-## 🚀 Project Context
+## Project Context
 
 This project is part of a broader Data Analytics internship, demonstrating practical data preprocessing techniques used in real-world scenarios.
 
